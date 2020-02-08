@@ -9,8 +9,10 @@ while(True):
 
     if ret:
         name = str(od)+ ".jpg"
-        print(name)
-        cv2.imwrite(name, frame)
+
+        if od% 29 == 0:
+            print(name)
+            cv2.imwrite(name, frame)
         od = od+1
 
     else:
