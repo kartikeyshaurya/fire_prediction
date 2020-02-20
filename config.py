@@ -31,3 +31,5 @@ TRAINING_PLOT_PATH = os.path.sep.join(["output", "training_plot.png"])
 # sample
 OUTPUT_IMAGE_PATH = os.path.sep.join(["output", "examples"])
 SAMPLE_SIZE = 50
+
+print(OUTPUT_IMAGE_PATH)
