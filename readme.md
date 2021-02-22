@@ -55,5 +55,13 @@ step 5 : everything should be in order, and tryout my app :
 ```
 
 ## Tools used 
+<img src="readme_files/A.png">
+
 ##  Thanks 
+@sabstian thrun <br>
+@ udacity </br>
+@ Lovely Professional University <br>
+
 ## license 
+
+<p> the license is MIT but it would be better if you include me(karikeyshaurya) also </p>
