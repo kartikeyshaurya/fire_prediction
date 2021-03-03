@@ -44,12 +44,7 @@ if buffer:
 st.header("If you wanna take a look in the code here is the initial code ")
 
 
-code = "
-import tensorflow as tf 
-from tensorflow import keras 
-from keras import layers
-"
-st.code(code, language= 'python')
+
 
 
 
