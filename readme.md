@@ -11,7 +11,9 @@ Forest Fires cause severe hazard in endangering vegetation, Animal and human lif
 <br>
 
 <img src="readme_files/work.gif">
-<p> working machenism of whole project </p>
+
+
+ The working model is deployed [here](https://share.streamlit.io/kartikeyshaurya/fire_prediction/app.py)
 
 
 <br>
